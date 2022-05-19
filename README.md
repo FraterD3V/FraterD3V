@@ -10,6 +10,13 @@ My professional life began in 2014 to 2015 when I took my first Hardware course 
 I seek the best of myself every day and improve my potential every moment!
 
 
+<p align="center" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FraterD3V&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff"  />
+  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FraterD3V&show_icons=true&theme=0061C3&bg_color=181818&text_color=fff&layout=compact" alt="FraterD3V" />
+</p>
+
+
 
 ## 🛠 Tech Stack
 I have experience with the development of projects involving:
