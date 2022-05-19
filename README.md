@@ -17,10 +17,14 @@ I seek the best of myself every day and improve my potential every moment!
 
 ## 🛠 Tech Stack
 I have experience with the development of projects involving:
-- **Frontend:** HTML5, CSS, SASS, JavaScript, Bootstrap, Angular
-- **Backend:** NodeJS, Yarn, Electron, .NET, C#, Rabbitmq
-- **Databases:** MySQL, PostgreSql, Microsoft SQL Server, MongoDB
-- **Cloud:** Google Cloud, Firebase, Kubernetes
+
+- **Frontend:** HTML5, CSS, SASS, JavaScript, Bootstrap, Angular, AJAX, JQuery;
+- **Protocols and APIs:** REST, SOAP, WebSocket, Rabbitmq;
+- **Backend:** NodeJS, NPM, Yarn, Electron, .NET, C#, PHP, Java, Python;
+- **Databases:** MySQL, PostgreSql, Microsoft SQL Server, MongoDB;
+- **Cloud:** Google Cloud, Firebase, Kubernetes;
+- **Process Manager:** PM2, Docker;
+- **Platforms:** Windows, Linux, Android.
 
 
 <p align="center" >
