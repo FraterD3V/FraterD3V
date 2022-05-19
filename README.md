@@ -28,7 +28,7 @@ I have experience with the development of projects involving:
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-martins-10/?locale=en_US)
+[![linkedin](https://img.shields.io/badge/linkedin-121212?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-martins-10/?locale=en_US)
 [![instagram](https://img.shields.io/badge/Instagram-121212?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/FraterD3v)
 [![Discord](https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7XMZwHK)
 [![twitter](https://img.shields.io/badge/twitter-121212?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FraterD3v)
