@@ -1,5 +1,6 @@
-<img src="https://github.com/FraterD3V/FraterD3V/blob/master/img/codecafe.gif"/>
-
+<h1 align="center">
+<img src="https://github.com/FraterD3V/FraterD3V/blob/main/img/codecafe.gif"/>
+</h1>
 
 <h1 align="center"> Hello Universe! I'm Marcelo Martins!! </h1>
 
