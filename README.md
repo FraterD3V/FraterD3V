@@ -1,7 +1,9 @@
 
-# Hello Universe! I'm Marcelo Martins!!
+<h1 align="center"> Hello Universe! I'm Marcelo Martins!! </h1>
 
-***I'm a full stack developer!***
+***I'm 22 years old, Brazilian, I'm a full stack developer and currently working in a company that manufactures data capture and lawsuit robots.***
+
+<br>
 
 
 ## 🚀 About Me
