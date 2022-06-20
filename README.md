@@ -10,9 +10,11 @@
 
 
 ## 🚀 About Me
-My professional life began in 2014 when I took my first Hardware course and took the initiative to put my knowledge into practice by performing Hardware Maintenance and DoS Configuration. After my admission to the Computer Science degree and after a few courses and workshops, I returned my career to Full-Stack Development.
+Full-Stack developer with experience in the production of systems using JavaScript and its frameworks, Node.js and PostgreSQL.
 
-I seek the best of myself every day and improve my potential every moment!
+My professional life began in 2014, when I took my first course in Hardware and activated the initiative to put my acquired knowledge into practice, maintaining Hardware and DoS Configuration. After my entry into Development in 2 of Computer Science and after some extension courses, I returned my career to Full-ack.
+
+I always seek the best of myself and try to improve my potential with each passing day!
 
 
 ## 🛠 Tech Stack
@@ -22,9 +24,11 @@ I have experience with the development of projects involving:
 - **Protocols and APIs:** REST, SOAP, WebSocket, Rabbitmq;
 - **Backend:** NodeJS, NPM, Yarn, Electron, .NET, C#, PHP, Python;
 - **Databases:** MySQL, PostgreSql, Microsoft SQL Server, MongoDB;
-- **Cloud:** Google Cloud, Firebase, Kubernetes;
-- **Process Manager:** PM2, Docker;
+- **Cloud:** Google Cloud, Firebase;
+- **Process Manager:** PM2;
+- **Continuous Integration:** Git, Docker;
 - **Platforms:** Windows, Linux, Android.
+- **Understanding of Design Patterns, Scrum and Agile.**
 
 
 <p align="center" >
